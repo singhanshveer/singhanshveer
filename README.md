@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anshveer Singh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/codeanshveer" target="blank"><img src="https://img.shields.io/twitter/follow/codeanshveer?logo=twitter&style=for-the-badge" alt="codeanshveer" /></a> </p>
+<p align="left"> <a href="https://twitter.com/singhanshveer7" target="blank"><img src="https://img.shields.io/twitter/follow/codeanshveer?logo=twitter&style=for-the-badge" alt="codeanshveer" /></a> </p>
 
 - 🔭 I’m currently working on [Alien Invasion](https://github.com/singhanshveer/alien-invasion)
 
